@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vI/b8HT/wqZh0lHDp7I2iiLGOmh1ePl7UNIJhHn4EWZ6ze6c863hpWF8kRBsLbcKY19y1ajR7q0cXqFe6BevQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\polar\\source\\repos\\Forward\\Forward.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

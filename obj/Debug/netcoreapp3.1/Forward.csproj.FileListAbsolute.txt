@@ -1,0 +1,13 @@
+C:\Users\polar\source\repos\Forward\bin\Debug\netcoreapp3.1\Forward.exe
+C:\Users\polar\source\repos\Forward\bin\Debug\netcoreapp3.1\Forward.deps.json
+C:\Users\polar\source\repos\Forward\bin\Debug\netcoreapp3.1\Forward.runtimeconfig.json
+C:\Users\polar\source\repos\Forward\bin\Debug\netcoreapp3.1\Forward.runtimeconfig.dev.json
+C:\Users\polar\source\repos\Forward\bin\Debug\netcoreapp3.1\Forward.dll
+C:\Users\polar\source\repos\Forward\bin\Debug\netcoreapp3.1\Forward.pdb
+C:\Users\polar\source\repos\Forward\obj\Debug\netcoreapp3.1\Forward.csprojAssemblyReference.cache
+C:\Users\polar\source\repos\Forward\obj\Debug\netcoreapp3.1\Forward.AssemblyInfoInputs.cache
+C:\Users\polar\source\repos\Forward\obj\Debug\netcoreapp3.1\Forward.AssemblyInfo.cs
+C:\Users\polar\source\repos\Forward\obj\Debug\netcoreapp3.1\Forward.csproj.CoreCompileInputs.cache
+C:\Users\polar\source\repos\Forward\obj\Debug\netcoreapp3.1\Forward.dll
+C:\Users\polar\source\repos\Forward\obj\Debug\netcoreapp3.1\Forward.pdb
+C:\Users\polar\source\repos\Forward\obj\Debug\netcoreapp3.1\Forward.genruntimeconfig.cache
